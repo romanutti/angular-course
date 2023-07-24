@@ -1,1 +1,0 @@
-<iframe src="https://zuhlke.sharepoint.com/sites/WebCourses/_layouts/15/Doc.aspx?sourcedoc={a23f68b8-9c61-4cd4-a6e8-3f019ab3e6f3}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=0" width="100%"" frameborder="0"></iframe>
